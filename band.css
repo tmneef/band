@@ -1,0 +1,16 @@
+h3 {
+  font-weight: bold;
+  color: orange;
+}
+
+img {
+  width:200px;
+  height:100px;
+  float: left;
+}
+
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: pink;
+}
