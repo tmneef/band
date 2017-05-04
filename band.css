@@ -1,6 +1,7 @@
 h3 {
   font-weight: bold;
   color: orange;
+  float: left;
 }
 
 img {
@@ -13,4 +14,13 @@ img {
   width: 30%;
   float: right;
   background-color: pink;
+}
+
+p {
+  float: right;
+  border: 2px solid green;
+  padding: 4px;
+  background-color: yellow;
+  margin: 1px;
+
 }
